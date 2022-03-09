@@ -1,2 +1,2 @@
 # wordfinder
-Coding task BE
+Coding Excercise
